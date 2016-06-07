@@ -44,7 +44,7 @@ import { HeroService } from './hero.service';
   }
   .heroes li:hover {
     color: #607D8B;
-    background-color: #DDD;
+    background-color: #DDD; 
     left: .1em;
   }
   .heroes .text {
